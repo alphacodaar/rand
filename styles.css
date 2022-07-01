@@ -21,11 +21,14 @@ margin:0.5rem 0;
 padding:20;}
 input,select{
       width:90%;
-    margin:10 
+    margin:10 ;
+    display:block;
 
 }
-.mcq{width:unset;}
-.msq{width:unset;}
+.mcq{width:unset;
+       display:inline;}
+.msq{width:unset;
+display:inline;}
 button{
   width:90%;
   margin:0 30 30 25;
